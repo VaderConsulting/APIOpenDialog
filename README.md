@@ -1,6 +1,6 @@
 # APIOpenDialog
 
-VB6 working copy of `APIOpenDialog` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: 2UNC. Output: `2UNC.exe`. Drive letter to UNC Path converter. `VersionCompanyName`: D. Robinson.
+VB6 2UNC (`2UNC.exe` / `ToUNC`) that opens a text file or folder of files and replaces embedded drive letters with UNC server\share paths (GetOpenFileName dialog helpers). Tree also holds historical MapInfo `.WOR` workspaces and a WiX/MSI setup. Open `Project1.vbp` in the VB6 IDE.
 
 **Source last updated:** 2002-06-01 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
